@@ -1,4 +1,4 @@
-0.0.2
+0.0.1
 
 This is the initial update for BO2 Requiem!
 Update now at:
